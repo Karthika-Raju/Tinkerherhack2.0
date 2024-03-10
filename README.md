@@ -20,6 +20,6 @@ JavaScript
     Length Check
     Complexity Check
      Pattern Check
-     Uniqueness 
-so as beginners working in part of this hackathon we are trying to understand more about this field
+     Uniqueness     
+                so as beginners working in part of this hackathon we are trying to understand more about this field
      
